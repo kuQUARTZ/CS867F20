@@ -1,5 +1,9 @@
 # CS876 Computer Vision
 
+## How do you download the assignments?
+
+All the assignments will be released via github. You can download the files directly from the website. The link will be shared on LMS also. See the [Release](https://github.com/kuQUARTZ/CS867F19/tree/master/Release) Folder.
+
 ## Assignment Submission Instructions
 
 After you have completed each assignment, you need to submit the following deliverables:
@@ -45,6 +49,7 @@ If you are unfamiliar with Jupyter notebooks, you can also refer this [IPython t
 
 When working with a Jupyter notebook, you can edit the ***.py** files either in the Jupyter interface (in your browser) or with your favorite editor (vim, Atom...). Whenever you save a ***.py** file, the notebook will reload their content directly.
 
-## How do you download the assignments?
-
-All the assignments will be released via github. You can download the files directly from the website. The link will be shared on LMS also.
+## Collaboration Policy
+- Study groups are allowed but we expect students to understand and complete their own assignments and to hand in one assignment per student.
+- If you worked in a group, please put the names of your study group on your assignment on top.
+- Finally, we expect students to not look at implementations online. We take the student Honor Code seriously.
