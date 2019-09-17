@@ -113,27 +113,6 @@ def lab_decomposition(image, channel):
     return out
 
 
-def hsv_decomposition(image, channel='H'):
-    """Decomposes the image into HSV and only returns the channel specified.
-
-    Args:
-        image: numpy array of shape(image_height, image_width, 3).
-        channel: str specifying the channel. Can be either "H", "S" or "V".
-
-    Returns:
-        out: numpy array of shape(image_height, image_width).
-    """
-
-    hsv = color.rgb2hsv(image)
-    out = None
-
-    ### YOUR CODE HERE
-    pass
-    ### END YOUR CODE
-
-    return out
-
-
 def mix_images(image1, image2, channel1, channel2):
     """Combines image1 and image2 by taking the left half of image1
     and the right half of image2. The final combination also excludes
@@ -187,3 +166,31 @@ def mix_quadrants(image):
     ### END YOUR CODE
 
     return out
+
+def myConvolve2d(image, kernel):
+    """
+    In this function you need to implement the convolution operation from scratch
+    # This function which takes an image and a kernel 
+    # and returns the convolution of them
+    # Args:
+    #   image: a numpy array of size [image_height, image_width].
+    #   kernel: a numpy array of size [kernel_height, kernel_width].
+    # Returns:
+    #   a numpy array of size [image_height, image_width] (convolution output).
+    
+    """
+    kernel = np.flipud(np.fliplr(kernel))    # Flip the kernel
+    output = np.zeros_like(image)            # convolution output
+    # Add zero padding to the input image
+    image_padded = np.zeros((image.shape[0] + 2, image.shape[1] + 2))   
+    image_padded[1:-1, 1:-1] = image
+    
+    ### YOUR CODE HERE
+    # Loop over every pixel of the image and implement convolution operation (element wise multiplication and summation). 
+    # You can use two loops. The result is stored in the variable output.
+    
+    pass
+    ### END YOUR CODE
+        
+    
+    return output
