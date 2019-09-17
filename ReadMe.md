@@ -1,5 +1,3 @@
-# CS876 Computer Vision
-
 # CS867: Computer Vision
 
 This repository contains the released assignments for the Fall 2019 offering of CS 867 Computer Vision Elective Course. 
@@ -11,11 +9,11 @@ A comprehensive list of Python libraries and packages used for computer vision c
 Saveral electronic books are provided in a google drive, the link is shared on LMS. These books can be an excellent resource for the beginers as well as for the experts. 
 
 **Assignment 1** starts off with an introduction on how to use images in python and numpy. It focuses on understanding and implemting the basic concepts such as image manipulation operation using matrices, convolutions, different kernels and how to design them and edge detection e.t.c. A couple of extra credit questions are also there.
-
+<hr/>
 ## How do you download the assignments?
 
 All the assignments will be released via github. You can download the files directly from the website. The link will be shared on LMS also. 
-
+<hr/>
 ## Assignment Submission Instructions
 
 After you have completed each assignment, you need to submit the following deliverables:
@@ -29,7 +27,7 @@ After you have completed each assignment, you need to submit the following deliv
 Place all files in a folder. Rename the folder as *Your FirstName_Your LastName*, zip it and submit on LMS. 
 
 **Please make sure that the code must run without errors, because it will be marked by automated scripts. NO credit will be given if code fails to run properly.**
-
+<hr>
 ## How to start working on an assignment?
 Before working on each homework, you need to setup a few things:
 
