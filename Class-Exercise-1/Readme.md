@@ -28,11 +28,13 @@ _C:\Class_Exercise_1>pip install -r requirements.txt_
 
 **Run the Jupyter NoteBook**
 
-Now you are ready to work on InClassExercise-1.ipynb and Start the notebook by calling:
+Now you are ready to work on **InClassExercise-1.ipynb** and Start the notebook by calling:
 
 _C:\Class_Exercise_1>jupyter notebook_
 
-Now go to your web browser (ex, Google Chrome, Safari, Firefox) and go the this url: localhost:8888. Click on InClassExercise-1.ipynb to start working on the assignment.
+Now go to your web browser (ex, Google Chrome, Safari, Firefox) and go the this url: localhost:8888. 
+
+Click on InClassExercise-1.ipynb to start working.
 
 This exercise is for your practice only. No submission is needed. 
 
