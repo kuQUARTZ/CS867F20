@@ -22,8 +22,11 @@ Remember that everytime you take a break and then decide to go back to working o
 
 _C:\Class_Exercise_1\env>Scripts\Deactivate_
 
-** Install dependencies **
+**Install dependencies**
+
 _C:\Class_Exercise_1>pip install -r requirements.txt_
+
+**Run the Jupyter NoteBook**
 
 Now you are ready to work on InClassExercise-1.ipynb and Start the notebook by calling:
 
