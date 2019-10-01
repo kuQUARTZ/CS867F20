@@ -14,7 +14,7 @@ It is assumed that Python 3.x installed on your machine.
 
 In command propmpt, go to your _Class_Exercise_1_ directory and run the following command
 
-_C:\Class_Exercise_1>python -m venv env
+_C:\Class_Exercise_1>python -m venv env_
 
 _C:\Class_Exercise_1\env>Scripts\Activate_
 
