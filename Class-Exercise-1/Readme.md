@@ -7,7 +7,8 @@ Clone or download the repository
 Setup a virtual environment and install all your dependencies.
 
 **Virtual Environment Setup**
-A guide to install python Virtual Environment can be seen [here](https://realpython.com/python-virtual-environments-a-primer/).<br>
+
+A guide to install python Virtual Environment can be seen [here](https://realpython.com/python-virtual-environments-a-primer/).
 
 It is assumed that Python 3.x installed on your machine.
 
