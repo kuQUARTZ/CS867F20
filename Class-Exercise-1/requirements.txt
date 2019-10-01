@@ -1,0 +1,10 @@
+jupyter
+matplotlib
+numpy
+pandas==0.24.2
+pandas_ml
+opencv-python
+scipy
+scikit-image
+scikit-learn
+
