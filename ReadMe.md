@@ -1,6 +1,6 @@
 # CS867: Computer Vision
 
-This repository contains the released assignments for the Fall 2019 offering of CS 867 Computer Vision Elective Course. 
+This repository contains the released assignments for the Fall 2020 offering of CS 867 Computer Vision Elective Course. 
 
 The assignments cover a wide range of topics in computer vision and should expose students to a broad range of concepts and applications. Thaere is rich set of image processing and machine learning libraries available in Python. During this and following cources the students will be trainined to use them with the help of assignments. 
 
